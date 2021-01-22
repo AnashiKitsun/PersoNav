@@ -1,0 +1,2354 @@
+{
+    "Lunge": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal light physical damage to 1 foe.",
+        "Cost": "5% HP"
+    },
+    "Cleave": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal light physical damage to 1 foe.",
+        "Cost": "6% HP"
+    },
+    "Giant Slice": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe.",
+        "Cost": "9% HP"
+    },
+    "Assault Dive": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage to 1 foe.",
+        "Cost": "13% HP"
+    },
+    "Megaton Raid": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe physical damage to 1 foe.",
+        "Cost": "16% HP"
+    },
+    "Sword Dance": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal colossal physical damage to 1 foe.",
+        "Cost": "21% HP"
+    },
+    "Brave Blade": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal colossal physical damage to 1 foe.",
+        "Cost": "24% HP"
+    },
+    "God's Hand": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal colossal physical damage to 1 foe.",
+        "Cost": "25% HP"
+    },
+    "Double Fangs": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe 2 times.",
+        "Cost": "10% HP"
+    },
+    "Ayamur": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe 3x with high accuracy. Unique to Baal.",
+        "Cost": "25% HP"
+    },
+    "Myriad Slashes": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe 2x to 3x.",
+        "Cost": "20% HP"
+    },
+    "Tempest Slash": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal minuscule physical damage to 1 foe 3 to 5 times.",
+        "Cost": "17% HP"
+    },
+    "Dream Needle": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Sleep (medium odds) to 1 foe.",
+        "Cost": "8% HP"
+    },
+    "Terror Claw": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Fear (medium odds) to 1 foe.",
+        "Cost": "8% HP"
+    },
+    "Headbutt": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Forget (medium odds) to 1 foe.",
+        "Cost": "9% HP"
+    },
+    "Hysterical Slap": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Rage (medium odds) to 1 foe.",
+        "Cost": "9% HP"
+    },
+    "Brain Shake": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Brainwash (medium odds) to 1 foe.",
+        "Cost": "9% HP"
+    },
+    "Sledgehammer": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Dizzy (medium odds) to 1 foe.",
+        "Cost": "10% HP"
+    },
+    "Skull Cracker": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Panic (medium odds) to 1 foe.",
+        "Cost": "10% HP"
+    },
+    "Negative Pile": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage and inflict Despair (medium odds) to 1 foe.",
+        "Cost": "12% HP"
+    },
+    "Rising Slash": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage to 1 foe. More powerful under Baton Pass.",
+        "Cost": "14% HP"
+    },
+    "Deadly Fury": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe physical damage to 1 foe. More powerful under Baton Pass.",
+        "Cost": "18% HP"
+    },
+    "Cornered Fang": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe. More powerful when being ambushed.",
+        "Cost": "10% HP"
+    },
+    "Lucky Punch": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal minuscule physical damage to 1 foe. High critical rate.",
+        "Cost": "6% HP"
+    },
+    "Miracle Punch": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to 1 foe. High critical rate.",
+        "Cost": "8% HP"
+    },
+    "Cross Slash": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": true,
+        "Effect": "Deal heavy physical damage to 1 foe 2 times. High accuracy. Unique to Izanagi.",
+        "Cost": "20% HP"
+    },
+    "Beast Weaver": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": true,
+        "Effect": "Deal colossal physical damage to 1 foe and the user is debuffed with Tarunda. (This is independent from -kaja/nda effects.) Unique to Ariadne.",
+        "Cost": "20% HP"
+    },
+    "Vajra Blast": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to all foes.",
+        "Cost": "14% HP"
+    },
+    "Vicious Strike": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to all foes.",
+        "Cost": "18% HP"
+    },
+    "Heat Wave": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage to all foes.",
+        "Cost": "20% HP"
+    },
+    "Vorpal Blade": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage to all foes.",
+        "Cost": "23% HP"
+    },
+    "Gigantomachia": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal colossal physical damage to all foes.",
+        "Cost": "25% HP"
+    },
+    "Deathbound": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to all foes 1 to 2 times.",
+        "Cost": "22% HP"
+    },
+    "Rampage": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal light physical damage to all foes 1 to 3 times.",
+        "Cost": "13% HP"
+    },
+    "Agneyastra": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage to all foes 1 to 3 times.",
+        "Cost": "24% HP"
+    },
+    "Swift Strike": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal light physical damage to all foes 3 to 4 times.",
+        "Cost": "17% HP"
+    },
+    "Hassou Tobi": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal light physical damage to all foes 8 times. Unique to Yoshitsune.",
+        "Cost": "25% HP"
+    },
+    "Memory Blow": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Forget (low odds) to all foes.",
+        "Cost": "15% HP"
+    },
+    "Dormin Rush": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Sleep (low odds) to all foes.",
+        "Cost": "16% HP"
+    },
+    "Oni Kagura": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Rage (low odds) to all foes.",
+        "Cost": "16% HP"
+    },
+    "Mind Slice": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Confuse (low odds) to all foes.",
+        "Cost": "19% HP"
+    },
+    "Flash Bomb": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Sleep (low odds) to all foes.",
+        "Cost": "19% HP"
+    },
+    "Bloodbath": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage and inflict Fear (low odds) to all foes.",
+        "Cost": "19% HP"
+    },
+    "Bad Beat": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium physical damage and inflict Despair (low odds) to all foes.",
+        "Cost": "21% HP"
+    },
+    "Brain Buster": {
+        "Targeting": "Varied",
+        "Type": "Physical",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy physical damage and inflict Brainwash (low odds) to all foes.",
+        "Cost": "21% HP"
+    },
+    "Snap": {
+        "Targeting": "Varied",
+        "Type": "Gun",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium ranged damage to 1 foe.",
+        "Cost": "9% HP"
+    },
+    "One-shot Kill": {
+        "Targeting": "Varied",
+        "Type": "Gun",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe gun damage to 1 foe with high critical rate.",
+        "Cost": "17% HP"
+    },
+    "Triple Down": {
+        "Targeting": "Varied",
+        "Type": "Gun",
+        "DLC Exclusive": false,
+        "Effect": "Deal light gun dmage to all foes 3 times.",
+        "Cost": "16% HP"
+    },
+    "Riot Gun": {
+        "Targeting": "Varied",
+        "Type": "Gun",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe gun damage to all foes.",
+        "Cost": "24% HP"
+    },
+    "Agi": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Fire damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Agilao": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Fire damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Agidyne": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Fire damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Inferno": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Fire damage to 1 foe.",
+        "Cost": "48"
+    },
+    "Maragi": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Fire damage to all foes.",
+        "Cost": "10"
+    },
+    "Maragion": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Fire damage to all foes.",
+        "Cost": "16"
+    },
+    "Maragidyne": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Fire damage to all foes.",
+        "Cost": "22"
+    },
+    "Blazing Hell": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Fire damage to all foes.",
+        "Cost": "54"
+    },
+    "Titanomachia": {
+        "Targeting": "Varied",
+        "Type": "Fire",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Fire damage to all foes and inflict Fear (high odds).Unique to Asterius and Asterius Picaro.",
+        "Cost": "34"
+    },
+    "Bufu": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Ice damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Bufula": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Ice damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Bufudyne": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Ice damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Diamond Dust": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Ice damage to 1 foe.",
+        "Cost": "48"
+    },
+    "Mabufu": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Ice damage to all foes.",
+        "Cost": "10"
+    },
+    "Mabufula": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Ice damage to all foes.",
+        "Cost": "16"
+    },
+    "Mabufudyne": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Ice damage to all foes.",
+        "Cost": "22"
+    },
+    "Ice Age": {
+        "Targeting": "Varied",
+        "Type": "Ice",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Ice damage to all foes.",
+        "Cost": "54"
+    },
+    "Zio": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Electric damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Zionga": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Electric damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Ziodyne": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Electric damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Thunder Reign": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Electric damage to 1 foe.",
+        "Cost": "48"
+    },
+    "Mazio": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Electric damage to all foes.",
+        "Cost": "10"
+    },
+    "Mazionga": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Electric damage to all foes.",
+        "Cost": "16"
+    },
+    "Maziodyne": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Electric damage to all foes.",
+        "Cost": "22"
+    },
+    "Wild Thunder": {
+        "Targeting": "Varied",
+        "Type": "Electric",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Electric damage to all foes.",
+        "Cost": "54"
+    },
+    "Garu": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Wind damage to 1 foe.",
+        "Cost": "3"
+    },
+    "Garula": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Wind damage to 1 foe.",
+        "Cost": "6"
+    },
+    "Garudyne": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Wind damage to 1 foe.",
+        "Cost": "10"
+    },
+    "Panta Rhei": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Wind damage to 1 foe",
+        "Cost": "42"
+    },
+    "Magaru": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal small Wind damage to all foes.",
+        "Cost": "8"
+    },
+    "Magarula": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Wind damage to all foes.",
+        "Cost": "14"
+    },
+    "Magarudyne": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Wind damage to all foes.",
+        "Cost": "20"
+    },
+    "Vacuum Wave": {
+        "Targeting": "Varied",
+        "Type": "Wind",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Wind damage to all foes.",
+        "Cost": "48"
+    },
+    "Psy": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Psy damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Psyo": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Psy damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Psydyne": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Psy damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Psychokinesis": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Psy damage to 1 foe.",
+        "Cost": "48"
+    },
+    "Mapsy": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Psy damage to all foes.",
+        "Cost": "10"
+    },
+    "Mapsyo": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Psy damage to all foes.",
+        "Cost": "16"
+    },
+    "Mapsydyne": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Psy damage to all foes.",
+        "Cost": "22"
+    },
+    "Psycho Force": {
+        "Targeting": "Varied",
+        "Type": "Psy",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Psy damage to all foes.",
+        "Cost": "54"
+    },
+    "Frei": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Nuclear damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Freila": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Nuclear damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Freidyne": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Nuclear damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Atomic Flare": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Nuclear damage to 1 foe.",
+        "Cost": "48"
+    },
+    "Mafrei": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Nuclear damage to all foes.",
+        "Cost": "10"
+    },
+    "Mafreila": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Nuclear damage to all foes.",
+        "Cost": "16"
+    },
+    "Mafreidyne": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Nuclear damage to all foes.",
+        "Cost": "22"
+    },
+    "Cosmic Flare": {
+        "Targeting": "Varied",
+        "Type": "Nuclear",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Nuclear damage to all foes.",
+        "Cost": "54"
+    },
+    "Kouha": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Bless damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Kouga": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Bless damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Kougaon": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Bless damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Makouha": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Bless damage to all foes.",
+        "Cost": "10"
+    },
+    "Makouga": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Bless damage to all foes.",
+        "Cost": "16"
+    },
+    "Makougaon": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Bless damage to all foes.",
+        "Cost": "22"
+    },
+    "God's Judgement": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Half remaining HP of 1 foe.",
+        "Cost": "48"
+    },
+    "Hama": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Small chance of instantly killing 1 foe.",
+        "Cost": "8"
+    },
+    "Hamaon": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Medium chance of instantly killing 1 foe.",
+        "Cost": "15"
+    },
+    "Mahama": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Small chance of instantly killing all foes.",
+        "Cost": "18"
+    },
+    "Mahamaon": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "Medium chance of instantly killing all foes.",
+        "Cost": "34"
+    },
+    "Samsara": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": false,
+        "Effect": "High chance of instantly killing all foes. Unique to Daisoujou.",
+        "Cost": "44"
+    },
+    "Shining Arrows": {
+        "Targeting": "Varied",
+        "Type": "Bless",
+        "DLC Exclusive": true,
+        "Effect": "Deal 4 to 8 time light Bless damage to all foes. Unique to Kaguya and Kaguya Picaro.",
+        "Cost": "22"
+    },
+    "Eiha": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Curse damage to 1 foe.",
+        "Cost": "4"
+    },
+    "Eiga": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Curse damage to 1 foe.",
+        "Cost": "8"
+    },
+    "Eigaon": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Curse damage to 1 foe.",
+        "Cost": "12"
+    },
+    "Maeiha": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal light Curse damage to all foes.",
+        "Cost": "10"
+    },
+    "Maeiga": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Curse damage to all foes.",
+        "Cost": "16"
+    },
+    "Maeigaon": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Curse damage to all foes.",
+        "Cost": "22"
+    },
+    "Evil Judgement": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Half remaining HP of 1 foe.",
+        "Cost": "48"
+    },
+    "Mudo": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Small chance of instantly killing 1 foe.",
+        "Cost": "8"
+    },
+    "Mudoon": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "medium chance of instantly killing 1 foe.",
+        "Cost": "15"
+    },
+    "Mamudo": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "Small chance of instantly killing all foes.",
+        "Cost": "18"
+    },
+    "Mamudoon": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "medium chance of instantly killing all foes.",
+        "Cost": "34"
+    },
+    "Die For Me!": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": false,
+        "Effect": "High chance of instantly killing all foes. Unique to Alice.",
+        "Cost": "44"
+    },
+    "Magatsu Mandala": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": true,
+        "Effect": "Deal heavy Curse damage to all foes and inflict Panic/Fear/Distress (medium odds). Unique to Magatsu-Izanagi and Magatsu Izanagi Picaro.",
+        "Cost": "30"
+    },
+    "Purgatorial Wing": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Curse damage to all foes. Unique to Tsukiyomi.",
+        "Cost": "?"
+    },
+    "Abyssal Wings": {
+        "Targeting": "Varied",
+        "Type": "Curse",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Curse damage to all foes. Unique to Tsukiyomi and Tsukiyomi Picaro.",
+        "Cost": "30"
+    },
+    "Megido": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Deal medium Almighty damage to all foes.",
+        "Cost": "15"
+    },
+    "Megidola": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Deal heavy Almighty damage to all foes.",
+        "Cost": "24"
+    },
+    "Megidolaon": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Almighty damage to all foes.",
+        "Cost": "38"
+    },
+    "Spirit Drain": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Drains SP from 1 foe.",
+        "Cost": "3"
+    },
+    "Bloodsuck": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Drains ? HP and ? SP from 1 foe.",
+        "Cost": "3"
+    },
+    "Foul Breath": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Increase susceptibility to all ailments of 1 foe.",
+        "Cost": "8"
+    },
+    "Stagnant Air": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Increase susceptibility to all ailments of all foes and allies.",
+        "Cost": "5"
+    },
+    "Ghastly Wail": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Instantly kill all foes under Fear.",
+        "Cost": "28"
+    },
+    "Black Viper": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": false,
+        "Effect": "Deal severe Almighty damage to 1 foe. Unique to Satan.",
+        "Cost": "48"
+    },
+    "Morning Star": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Almighty damage to all foes. Unique to Lucifer.",
+        "Cost": "52"
+    },
+    "Door of Hades": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": true,
+        "Effect": "Deal heavy Almighty damage to all foes with medium chance of instant kill. Unique to Thanatos and Thanatos Picaro.",
+        "Cost": "32"
+    },
+    "Abyssal Gaze": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Almighty damage to all foes. Unique to Hastur.",
+        "Cost": "50"
+    },
+    "Blade of Rebellion": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": true,
+        "Effect": "Deal severe Almighty damage to 1 foe. Extra effectiveness against an enemy that is down. Unique to ??.",
+        "Cost": "99"
+    },
+    "Myriad Truths": {
+        "Targeting": "Varied",
+        "Type": "Almighty",
+        "DLC Exclusive": true,
+        "Effect": "Deal heavy Almighty damage to all foes. Hits three times. Unique to Izanagi-no-Okami and Izanagi-no-Okami Picaro.",
+        "Cost": "40"
+    },
+    "Counter": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "10% chance of reflecting Phys attacks."
+    },
+    "Counterstrike": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "15% chance of reflecting Phys attacks."
+    },
+    "High Counter": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "20% chance of reflecting Phys attacks."
+    },
+    "Resist Phys": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Phys attacks."
+    },
+    "Resist Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Fire (Agi) attacks."
+    },
+    "Resist Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Ice (Bufu) attacks."
+    },
+    "Resist Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Electric (Zio) attacks."
+    },
+    "Resist Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Wind (Garu) attacks."
+    },
+    "Resist Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Psi attacks."
+    },
+    "Resist Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Nuclear (Frei) attacks."
+    },
+    "Resist Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Light (Kou) attacks."
+    },
+    "Resist Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce damage from Curse (Ei) attacks."
+    },
+    "Resist Dizzy": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Dizzy."
+    },
+    "Resist Forget": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Forget."
+    },
+    "Resist Sleep": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Sleep."
+    },
+    "Resist Panic": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Panic."
+    },
+    "Resist Fear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Fear."
+    },
+    "Resist Distress": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Distress."
+    },
+    "Resist Rage": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Rage."
+    },
+    "Resist Brainwash": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibility to Brainwash."
+    },
+    "Resist Ailment": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce susceptibilities to all ailments."
+    },
+    "Null Phys": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Phys attacks."
+    },
+    "Null Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Fire (Agi) attacks."
+    },
+    "Null Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Ice (Bufu) attacks."
+    },
+    "Null Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Electric (Zio) attacks."
+    },
+    "Null Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Wind (Garu) attacks."
+    },
+    "Null Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Psi attacks."
+    },
+    "Null Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Nuclear (Frei) attacks."
+    },
+    "Null Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Light (Kou) attacks."
+    },
+    "Null Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Curse (Ei) attacks."
+    },
+    "Null Dizzy": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Dizzy."
+    },
+    "Null Forget": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Forget."
+    },
+    "Null Sleep": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Sleep."
+    },
+    "Null Panic": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Panic."
+    },
+    "Null Fear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Fear."
+    },
+    "Null Distress": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Distress."
+    },
+    "Null Rage": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Rage."
+    },
+    "Null Brainwash": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against Brainwash."
+    },
+    "Unshaken Will": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Impart immunity against all psychological ailments."
+    },
+    "Repel Phys": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Phys attacks."
+    },
+    "Repel Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Fire (Agi) attacks."
+    },
+    "Repel Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Ice (Bufu) attacks."
+    },
+    "Repel Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Electric (Zio) attacks."
+    },
+    "Repel Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Wind (Garu) attacks."
+    },
+    "Repel Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Psi attacks."
+    },
+    "Repel Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Nuclear (Frei) attacks."
+    },
+    "Repel Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Light (Kou) attacks."
+    },
+    "Repel Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Repel Curse (Ei) attacks."
+    },
+    "Absorb Phys": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Phys attacks."
+    },
+    "Absorb Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Fire (Agi) attacks."
+    },
+    "Absorb Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Ice (Bufu) attacks."
+    },
+    "Absorb Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Electric (Zio) attacks."
+    },
+    "Absorb Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Wind (Garu) attacks."
+    },
+    "Absorb Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Psi attacks."
+    },
+    "Absorb Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Nuclear (Frei) attacks."
+    },
+    "Absorb Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Light (Kou) attacks."
+    },
+    "Absorb Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Absorb Curse (Ei) attacks."
+    },
+    "Sharp Student": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Lower odds of receiving critical hit."
+    },
+    "Firm Stance": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Half all incoming damage by sacrificing evasion completely."
+    },
+    "Dodge Physical": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Phys attacks."
+    },
+    "Dodge Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Fire (Agi) attacks."
+    },
+    "Dodge Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Ice (Bufu) attacks."
+    },
+    "Dodge Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Electric (Zio) attacks."
+    },
+    "Dodge Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Wind (Garu) attacks."
+    },
+    "Dodge Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Psi attacks."
+    },
+    "Dodge Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against Nuclear (Frei) attacks."
+    },
+    "Dodge Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against (non instant death) Light (Kou) attacks."
+    },
+    "Dodge Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against (non instant death) Curse (Ei) attacks."
+    },
+    "Evade Physical": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Phys attacks."
+    },
+    "Evade Fire": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Fire (Agi) attacks."
+    },
+    "Evade Ice": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Ice (Bufu) attacks."
+    },
+    "Evade Electric": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Electric (Zio) attacks."
+    },
+    "Evade Wind": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Wind (Garu) attacks."
+    },
+    "Evade Psi": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Psi attacks."
+    },
+    "Evade Nuclear": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against Nuclear (Frei) attacks."
+    },
+    "Evade Light": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against (non instant death) Light (Kou) attacks."
+    },
+    "Evade Curse": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Triple evasion rate against (non instant death) Curse (Ei) attacks."
+    },
+    "Angelic Grace": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Double evasion rate against all attacks except Bless/Curseness/Almighty."
+    },
+    "Rainy Play": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Greatly increase evasion under rainy day or special weather warning."
+    },
+    "Ali Dance": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Half hit rate of all incoming attacks."
+    },
+    "Pressing Stance": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Reduce hit rate by 2/3 of all incoming attack when being ambushed."
+    },
+    "Fire Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Fire (Agi) attacks by 25%."
+    },
+    "Ice Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Ice (Bufu) attacks by 25%."
+    },
+    "Electric Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Electric (Zio) attacks by 25%."
+    },
+    "Wind Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Wind (Garu) attacks by 25%."
+    },
+    "Psi Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Psi attacks by 25%."
+    },
+    "Nuclear Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Nuclear (Frei) attacks by 25%."
+    },
+    "Bless Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen (non instant death) Bless (Kou) attacks by 25%."
+    },
+    "Curse Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen (non instant death) Curse (Ei) attacks by 25%."
+    },
+    "Almighty Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Almighty attacks by 25%."
+    },
+    "Fire Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Fire (Agi) attacks by 50%."
+    },
+    "Ice Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Ice (Bufu) attacks by 50%."
+    },
+    "Electric Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Electric (Zio) attacks by 50%."
+    },
+    "Wind Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Wind (Garu) attacks by 50%."
+    },
+    "Psi Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Psi attacks by 50%."
+    },
+    "Nuclear Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Nuclear (Frei) attacks by 50%."
+    },
+    "Light Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen (non instant death) Light (Kou) attacks by 50%."
+    },
+    "Curse Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen (non instant death) Curse (Ei) attacks by 50%."
+    },
+    "Almighty Amp": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Almighty attacks by 50%."
+    },
+    "Hama Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase success rate of instant death by Bless skills."
+    },
+    "Mudo Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase success rate of instant death by Curse skills."
+    },
+    "Burn Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Burn."
+    },
+    "Freeze Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Freeze."
+    },
+    "Shock Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Shock."
+    },
+    "Dizzy Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Dizzy."
+    },
+    "Forget Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Forget."
+    },
+    "Sleep Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Sleep."
+    },
+    "Confuse Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Confuse."
+    },
+    "Fear Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Fear."
+    },
+    "Distress Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Distress."
+    },
+    "Rage Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Rage."
+    },
+    "Brainwash Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting Brainwash."
+    },
+    "Ailment Boost": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase chance of inflicting all ailments."
+    },
+    "Brooding Sky": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Greatly increase inflicting rate of all status effects under rainy day or special weather warning."
+    },
+    "Mage's Gift": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen all magical attacks by 25%."
+    },
+    "Crisis Resolve": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase critical rate when being ambushed."
+    },
+    "Touch and Go": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Apply Sukukaja when performing Baton Pass."
+    },
+    "Apt Pupil": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase critical rate."
+    },
+    "Arms Master": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Half HP cost for physical skills."
+    },
+    "Spell Master": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Half SP cost for magic skills."
+    },
+    "Sharpshooter": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Gun attacks by 25%."
+    },
+    "Light Spot Aim": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Strengthen Gun attacks by 50%."
+    },
+    "Trigger Happy": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase critical rate of Gun attacks."
+    },
+    "High Voltage": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Increase critical rate when beginning battle with preemptive turn."
+    },
+    "Attack Lesson": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Tarukaja at the start of battle."
+    },
+    "Defense Lesson": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Rakukaja at the start of battle."
+    },
+    "Speed Lesson": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Sukukaja at the start of battle."
+    },
+    "Auto-Mataru": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Matarukaja at the start of battle. (Overwrites Attack Lesson)"
+    },
+    "Auto-Maraku": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Marakukaja at the start of battle. (Overwrites Defense Lesson)"
+    },
+    "Auto-Masuku": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Automatic Masukukaja at the start of battle. (Overwrites Speed Lesson)"
+    },
+    "Heat Up": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 5% HP and 10 SP at the start of preemptive turn."
+    },
+    "Endure": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Survive one fatal blow with 1 HP remaining."
+    },
+    "Survival Trick": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Survive one instant death attack with 1 HP remaining."
+    },
+    "Enduring Soul": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Survive one fatal blow with HP completely recovered."
+    },
+    "Growth 1": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Persona gains 1/4 EXP while inactive."
+    },
+    "Growth 2": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Persona gains 1/2 EXP while inactive."
+    },
+    "Growth 3": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Persona gains full EXP even while inactive."
+    },
+    "Regenerate 1": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Restore 2% of max HP each turn in battle."
+    },
+    "Regenerate 2": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 4% of max HP each turn in battle."
+    },
+    "Regenerate 3": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 6% of max HP each turn in battle."
+    },
+    "Invigorate 1": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 3 SP each turn in battle."
+    },
+    "Invigorate 2": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 5 SP each turn in battle."
+    },
+    "Invigorate 3": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 7 SP each turn in battle."
+    },
+    "Fast Heal": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Half the time needed to recover from ailments."
+    },
+    "Insta-Heal": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover from an ailment in 1 turn."
+    },
+    "Divine Grace": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Effects of healing magic are increased by 50%."
+    },
+    "Soul Chain": {
+        "Targeting": "Passive",
+        "Type": "Passive",
+        "DLC Exclusive": false,
+        "Effect": "Recover 20 SP when performing Baton Pass."
+    },
+    "Tarukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase 1 ally's Attack power for 3 turns.",
+        "Cost": "8"
+    },
+    "Rakukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase 1 ally's Defense for 3 turns.",
+        "Cost": "8"
+    },
+    "Sukukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase 1 ally's Agility for 3 turns.",
+        "Cost": "8"
+    },
+    "Heat Riser": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase 1 ally's Attack Defense and Agility for 3 turns.",
+        "Cost": "30"
+    },
+    "Matarukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase party's Attack power for 3 turns.",
+        "Cost": "24"
+    },
+    "Marakukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase party's Defense for 3 turns.",
+        "Cost": "24"
+    },
+    "Masukukaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase party's Agility for 3 turns.",
+        "Cost": "24"
+    },
+    "Thermopylae": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase party's Attack Defense and Agility for 3 turns. Only usable if the party is being ambushed.",
+        "Cost": "30"
+    },
+    "Champion's Oath": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Restores 10 SP of 1 ally and increase their Attack power for 3 turns.*",
+        "Cost": "?"
+    },
+    "Tarunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease 1 foe's Attack power for 3 turns.",
+        "Cost": "8"
+    },
+    "Rakunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease 1 foe's Defense for 3 turns.",
+        "Cost": "8"
+    },
+    "Sukunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease 1 foe's Agility for 3 turns.",
+        "Cost": "8"
+    },
+    "Debilitate": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease 1 foe's Attack Defense and Agility for 3 turns.",
+        "Cost": "30"
+    },
+    "Matarunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease all foes' Attack power for 3 turns.",
+        "Cost": "24"
+    },
+    "Marakunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease all foes' Defense for 3 turns.",
+        "Cost": "24"
+    },
+    "Masukunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease all foes' Agility for 3 turns.",
+        "Cost": "24"
+    },
+    "Rebellion": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase 1 ally's critical rate for 3 turns.",
+        "Cost": "10"
+    },
+    "Revolution": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase all foes and allies' critical rate for 3 turns.",
+        "Cost": "?"
+    },
+    "Power Charge": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Multiply user's next Phys attack damage by 2.5.",
+        "Cost": "15"
+    },
+    "Mind Charge": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Multiply user's next magical attack damage by 2.5.",
+        "Cost": "15"
+    },
+    "Charge All": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Multiply party's next Attack damage by 2.5x",
+        "Cost": "80"
+    },
+    "Concentrate All": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Multiply party's next Magic damage by 2.5x",
+        "Cost": "80"
+    },
+    "Myriad Blooms": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Increase all allies' Attack, Defense, and Agility for 3 turns",
+        "Cost": "90"
+    },
+    "Checkmate": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Decrease all foes' Attack, Defense, and Agility for 3 turns",
+        "Cost": "90"
+    },
+    "False Painting": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Absorbs all non-almighty attacks once and removes weakness.",
+        "Cost": "22"
+    },
+    "Life Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Repels incoming non-almighty attack for all allies.",
+        "Cost": "95"
+    },
+    "President Intuition": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Applies Attack Master and Concentrate on one ally.",
+        "Cost": "15"
+    },
+    "Fire Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Fire (Agi) attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Ice Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Ice (Bufu) attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Electric Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Electric (Zio) attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Wind Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Wind attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Psy Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Psy attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Nuclear Wall": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to reduce damage of Nuclear (Frei) attacks for 3 turns.",
+        "Cost": "18"
+    },
+    "Tetraja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create shields on party to nullify one instant death attack of Bless (Kou) or Curse (Ei) types.",
+        "Cost": "24"
+    },
+    "Tetrakarn": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to repel 1 Phys attack.",
+        "Cost": "?"
+    },
+    "Makarakarn": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Create a shield on 1 ally to repel 1 magical attack.",
+        "Cost": "?"
+    },
+    "Dekaja": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate all -kaja buff effects of all foes.",
+        "Cost": "10"
+    },
+    "Dekunda": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate all -nda debuff effects of party.",
+        "Cost": "10"
+    },
+    "Agi Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Fire (Agi) resistances of all foes.",
+        "Cost": "15"
+    },
+    "Bufu Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Ice (Bufu) resistances of all foes.",
+        "Cost": "15"
+    },
+    "Zio Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Electric (Zio) resistances of all foes.",
+        "Cost": "15"
+    },
+    "Garu Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Wind (Garu) resistances of all foes.",
+        "Cost": "15"
+    },
+    "Psy Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Psy resistances of all foes.",
+        "Cost": "15"
+    },
+    "Nuclear Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Negate Nuclear (Frei) resistances of all foes.",
+        "Cost": "15"
+    },
+    "Tetra Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Remove physical-repellent shields from all foes.",
+        "Cost": "?"
+    },
+    "Makara Break": {
+        "Targeting": "Varied",
+        "Type": "Support",
+        "DLC Exclusive": false,
+        "Effect": "Remove magic-repellent shields from all foes.",
+        "Cost": "?"
+    },
+    "Dia": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Slightly restores 1 ally's HP.",
+        "Cost": "3"
+    },
+    "Diarama": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Moderately restores 1 ally's HP.",
+        "Cost": "6"
+    },
+    "Diarahan": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Fully restores 1 ally's HP.",
+        "Cost": "18"
+    },
+    "Media": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Slight restores party's HP.",
+        "Cost": "7"
+    },
+    "Mediarama": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Moderately restores party's HP.",
+        "Cost": "12"
+    },
+    "Mediarahan": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Fully restores party's HP.",
+        "Cost": "30"
+    },
+    "Recarm": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Revives 1 ally with 50% HP recovered.",
+        "Cost": "8"
+    },
+    "Samarecarm": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Revives 1 ally with all HP recovered.",
+        "Cost": "18"
+    },
+    "Recarmdora": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Fully revives and recover party but user's HP drops to 1.",
+        "Cost": "?"
+    },
+    "Salvation": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Fully restores HP. Cures all ailments of party except for unique status.",
+        "Cost": "48"
+    },
+    "Cadenza": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Restores 50% HP of party and increase evasion rate. Unique to Orpheus and Orpheus Picaro.",
+        "Cost": "24"
+    },
+    "Oratorio": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Fully restores party's HP and negate all -nda debuffs. Unique to Messiah and Messiah Picaro.",
+        "Cost": "38"
+    },
+    "Neo Cadenza": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Restores 50% HP of party and increase attack, defense, and evasion rate. Unique Orpheus F and Orpheus F Picaro.",
+        "Cost": "24"
+    },
+    "Saintly Devotion": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Revives and fully restores HP of party. Unique to Maria. (P5R only)",
+        "Cost": "26"
+    },
+    "High-speed Hacking": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Restores 25% HP to all allies after Futaba's All Out Attack",
+        "Cost": "-"
+    },
+    "Unstoppable Hacking": {
+        "Targeting": "Varied",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Restores 100% HP to all allies after Futaba's All Out Attack",
+        "Cost": "-"
+    },
+    "Baisudi": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Burn, Freeze, or Shock of 1 ally.",
+        "Cost": "4"
+    },
+    "Mabaisudi": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Burn, Freeze, or Shock of party.",
+        "Cost": "8"
+    },
+    "Patra": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Dizzy, Forget, Sleep, or Hunger of 1 ally.",
+        "Cost": "4"
+    },
+    "Me Patra": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Dizzy, Forget, Sleep, or Hunger of party.",
+        "Cost": "8"
+    },
+    "Energy Drop": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Panic, Fear, Distress, Rage, or Brainwash of 1 ally.",
+        "Cost": "4"
+    },
+    "Energy Shower": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures Panic, Fear, Distress, Rage, or Brainwash of party.",
+        "Cost": "8"
+    },
+    "Amrita Drop": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures all ailments of 1 ally except for unique status.",
+        "Cost": "6"
+    },
+    "Amrita Shower": {
+        "Targeting": "SingleAll",
+        "Type": "Healing",
+        "DLC Exclusive": false,
+        "Effect": "Cures all ailments of party except for unique status.",
+        "Cost": "12"
+    }
+}
